@@ -6,8 +6,8 @@ InsightHub is a Django-based blog-recommending platform where users can log in, 
 
 ## 📸 Screenshots
 
-<img src="./screenshots/homepage.png" width="600"/>
-<img src="./screenshots/loginpage.png" width="600"/>
+<img src="./screenshots/django_admin.jpg" width="600"/>
+<img src="./screenshots/home_page.jpg" width="600"/>
 
 ---
 
